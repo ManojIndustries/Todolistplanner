@@ -1,0 +1,30 @@
+.rm{
+    list-style: none;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    cursor: pointer;
+}
+.bg{
+    background: #FDFC47;
+    background: -webkit-linear-gradient(to right, #24FE41, #FDFC47);
+    background: linear-gradient(to right, #24FE41, #FDFC47);
+
+}
+
+.ftsty{
+    font-style: italic;
+}
+.bxshd{
+    box-shadow: 3px 3px 20px black;
+}
+.txtshd{
+    text-shadow: 2px 5px 10px white;
+}
+.rmvmargin{
+    margin: 0;
+}
+.rmvpadding{
+    padding: 0;
+}
